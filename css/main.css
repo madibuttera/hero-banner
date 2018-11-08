@@ -23,6 +23,7 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
   text-align: left;
   display: inline;
+  line-height: 1.4;
 }
 
 .img-flex {
@@ -39,8 +40,9 @@ header {
 p {
   font-style: italic;
   font-size: 2rem;
+  margin-top: 0;
 }
 
 body {
-
+  margin: 0;
 }
